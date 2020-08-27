@@ -45,7 +45,7 @@ W3C 组织就类似于现实世界中的联合国。
 
 **Web标准**：制作网页要遵循的规范。
 
-![](./images/20200820_0001.png)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html//20200820_0001.png)
 
 Web标准不是某一个标准，而是由W3C组织和其他标准化组织制定的一系列标准的集合。
 
@@ -69,15 +69,15 @@ Web标准不是某一个标准，而是由W3C组织和其他标准化组织制�
 
 HTML 相当于人的身体组织结构：
 
-![](./images/20200322_1250.png)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html//20200322_1250.png)
 
 CSS 相当于人的衣服和打扮：
 
-![](./images/20200322_1251.png)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html//20200322_1251.png)
 
 JS 相当于人的行为：
 
-![](./images/20200322_2220.gif)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html//20200322_2220.gif)
 
 **为什么要有web标准**
 

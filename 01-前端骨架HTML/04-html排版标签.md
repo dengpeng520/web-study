@@ -49,7 +49,7 @@
 
 效果演示：
 
-![](./images/20200820_0003.jpg)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html/20200820_0003.jpg)
 
 ## HTML 注释
 
@@ -78,7 +78,7 @@ HTML 注释的格式如下：
 
 属性举例：
 
-![Paste_Image.png](./images/20200820_0004.jpg)
+![Paste_Image.png](https://raw.githubusercontent.com/dengpeng520/images/master/html/20200820_0004.jpg)
 
 
 HTML标签是分等级的，HTML将所有的标签分为两种：
@@ -100,7 +100,7 @@ HTML标签是分等级的，HTML将所有的标签分为两种：
 
 网页效果如下：
 
-![](./images/20200820_0005.jpg)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html/20200820_0005.jpg)
 
 上图显示，浏览器不允许你这么做，我们使用Chrome的F12审查元素发现，浏览器自己把p封闭掉了，不让你去包裹h1。
 
@@ -133,7 +133,7 @@ PS：Chrome浏览器是HTML5支持度最好的浏览器。提供了非常好的�
 
 运行效果：
 
-![](./images/20200820_0006.jpg)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html/20200820_0006.jpg)
 
 
 属性介绍：
@@ -160,7 +160,7 @@ PS：Chrome浏览器是HTML5支持度最好的浏览器。提供了非常好的�
 </body>
 </html>
 ```
-![](./images/20200820_0007.jpg)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html/20200820_0007.jpg)
 
 ## 换行标签`<br />`
 
@@ -172,7 +172,7 @@ This <br/> is a para<br/>graph with line breaks
 
 效果如下：
 
-![](./images/20200820_0008.jpg)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html/20200820_0008.jpg)
 
 ## `<div>`和`<span>`标签
 
@@ -212,7 +212,7 @@ div和span是非常重要的标签，div的语义是division“分割”； span
 
 效果如下：
 
-![](./images/20200820_0009.jpg)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/html/20200820_0009.jpg)
 
 div标签的属性：
 

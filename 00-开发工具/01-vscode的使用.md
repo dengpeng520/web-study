@@ -2,7 +2,7 @@
 VS Code 软件实在是太酷、太好用了，越来越多的新生代互联网青年正在使用它。
 
 前端男神**尤雨溪**大大这样评价 VS Code：
-![未加载到图片](./images/20200619_0133.png)
+![未加载到图片](https://raw.githubusercontent.com/dengpeng520/images/master/tools/20200619_0133.png)
 
 有一点你可能会感到惊讶：VS Code 这款软件本身，是用 JavaScript 语言编写的（具体请自行查阅基于 JS 的 PC 客户端开发框架 `Electron`）。Jeff Atwood 在 2007 年提出了著名的 Atwood 定律：
 
@@ -68,7 +68,7 @@ IDE 和编辑器是有区别的：
 
 VS Code 的安装很简单，直接去官网下载安装包，然后双击安装即可。
 
-![](./images/20190313_1750_3.png)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/tools/20190313_1750_3.png)
 
 上图中，直接点击 download，一键下载安装即可。
 
@@ -185,17 +185,17 @@ VS Code 用得熟不熟，首先就看你是否会用快捷键。以下列出的
 
 当然，你也可以选择菜单栏「偏好设置 --> 键盘快捷方式」，进入快捷键的设置：
 
-![](./images/20190329_2120.png)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/tools//20190329_2120.png)
 
 ### 10、快捷键列表
 
 你可以点击 VS Code 左下角的齿轮按钮，效果如下：
 
-![](./images/20190418_1738.png)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/tools/20190418_1738.png)
 
 上图中，在展开的菜单中选择「键盘快捷方式」，就可以查看和修改所有的快捷键列表了：
 
-![](./images/20190418_1739_2.png)
+![](https://raw.githubusercontent.com/dengpeng520/images/master/tools/20190418_1739_2.png)
 
 ### 快捷键参考链接
 
